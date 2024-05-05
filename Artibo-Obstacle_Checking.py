@@ -17,7 +17,4 @@ while n < 10:
         artibo_display_text("장애물 없음", 27)      
         artibo_move("Go", 100, 1)
 
-#라인트레이서 코드 (테스트) → 어두울수록 값의 크기가 작아짐
 
-RightValue = get_left_floor_sensor_value()
-LeftValue = get_left_floor_sensor_value()
