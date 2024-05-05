@@ -23,3 +23,4 @@ RightValue = get_left_floor_sensor_value()
 LeftValue = get_left_floor_sensor_value()
 
 #검정색의 평균 명도값을 찾고 따라가는 알고리즘 제작해야 함
+#카메라 화각이 아래 선까지 찍힌다면, 카메라가 그 선을 인식해서 따라가도록 할 수 있지 않을까..?
