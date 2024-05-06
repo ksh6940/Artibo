@@ -14,7 +14,7 @@ Artibo Head Camera 로 검정색 테이프를 인식하고 검정색을 따라 �
 - Artibo Head Camera의 화각이 아래까지 찍히는 가?
 - Artibo가 검정색 테이프를 인식할 수 있는가?
 
-### Case 2
+### ~Case 2~
 
 Artibo Body Bottom Sensor가 검정색의 평균 명도값을 인식하고 따라 움직인다
 
@@ -23,7 +23,7 @@ Artibo Body Bottom Sensor가 검정색의 평균 명도값을 인식하고 따�
 - 검정색 테이프(또는 매직)의 명도가 일정한가?
 - 오른쪽 센서와 왼쪽 센서 값 중 어떤 센서를 이용할 것인가?
 
-※ Artibo Body Bottom Sensor의 원리가 무엇인가?
+※ Artibo Body Bottom Sensor = proxity sensor (근접센서) 
 
 ### Case 3
 
