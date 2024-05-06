@@ -2,3 +2,5 @@
 
 RightValue = get_left_floor_sensor_value()
 LeftValue = get_left_floor_sensor_value()
+
+blackValue = 1 #평균명도값 구해서 대입
